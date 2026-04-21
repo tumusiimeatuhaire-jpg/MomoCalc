@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MomoCalc</string>
+    <string name="app_name">Momo Calc</string>
     <string name="app_title">Fees Calculator</string>
     <string name="enter_amount">Enter Amount</string>
-    <string name="error_numbers_only">Please enter numbers only</string>
+    <string name="error_numbers_only">Please enter numbers only!</string>
     <string name="fee_label">Fee: %s</string>
 </resources>
