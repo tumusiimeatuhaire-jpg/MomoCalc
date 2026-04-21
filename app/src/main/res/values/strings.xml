@@ -1,0 +1,8 @@
+Strings.xml
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="app_title">Fees Calculator</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="error_numbers_only">Please enter numbers only</string>
+    <string name="fee_label">Fee: %s</string>
+</resources>
